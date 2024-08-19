@@ -20,3 +20,7 @@ the pausing (reflection) routine is the most important. i need to formulate a co
   - assumptions that i validated or contradicted
   - topics to research next time
 
+# future ideas
+- [ ] add template to obsidian / deploy as 
+- [ ] add rabbit hole entry to spaced repetition scheduler like the one anki uses to revisit the topic later before its forgotten, or archive the entry if the interest is no longer there.
+
